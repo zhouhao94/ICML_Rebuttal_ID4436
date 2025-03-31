@@ -13,5 +13,5 @@ Performance comparison between baseline LBEBM and our method across different pr
 # Figure-3
 ![image](https://github.com/zhouhao94/ICML_Rebuttal_ID4436/blob/main/Figure-3.png)
 <p align="center">  
-Failure case: our method struggles with trajectories featuring multiple sharp bends occurring within short time frames.
+Failure case: Our method struggles with trajectories featuring multiple sharp bends occurring within short time frames.
 </p>   
